@@ -49,7 +49,7 @@ Modal state from React Bootstrap
 ```javascript
 const [smShow, setSmShow] = useState(false);;
 ```
-Message that informs the user is guest it right or wrong
+Message that informs the user if the gues is right or wrong
 ```javascript
 const [msg, setMsg] = useState('');
 ```
