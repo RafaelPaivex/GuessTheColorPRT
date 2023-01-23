@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500;600&family=Silkscreen:wght@400;700&display=swap');
+
+body{
+    background-color: #282828;
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+.navbar{
+    background-color: #363636;
+    color: white;
+    font-family: 'Silkscreen', cursive;
+}
+
+.navbar h1{
+    font-size: 35;
+}
+
+.navbar p{
+    font-size: 30px;
+}
+
+.option{
+    height: 100px;
+}
+
+.option :hover{
+    cursor: pointer;
+}
+
+button{
+    border: none;
+}
